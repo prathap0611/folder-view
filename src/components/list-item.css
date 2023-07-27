@@ -1,0 +1,13 @@
+.icon {
+    color: gold;
+    margin-right: 10px;
+}
+
+.group {
+    display: flex;
+    cursor: pointer;
+}
+
+.no-cursor {
+    cursor: not-allowed;
+}
